@@ -3,8 +3,6 @@ import 'package:news_app_proyek/service/news_service.dart';
 import 'package:news_app_proyek/utils/utils.dart';
 import 'package:news_app_proyek/widget/card_widget.dart';
 
-import 'detailnews_screen.dart';
-
 class SeeAllHeadlineNewsScreen extends StatefulWidget {
   const SeeAllHeadlineNewsScreen({super.key});
 

@@ -97,13 +97,10 @@ class _DetailNewsScreenState extends State<DetailNewsScreen> {
           ),
         ],
       ),
-      body: Padding(
-        padding: const EdgeInsets.only(
-          left: 20,
-          top: 20,
-          right: 20,
-        ),
-        child: SingleChildScrollView(
+      body: SingleChildScrollView(
+        padding: const EdgeInsets.only(bottom: 80),
+        child: Padding(
+          padding: const EdgeInsets.only(left: 20, top: 20, right: 20),
           child: Column(
             children: [
               ClipRRect(
