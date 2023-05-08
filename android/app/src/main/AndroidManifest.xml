@@ -9,9 +9,9 @@
    </queries>
    <uses-permission android:name="android.permission.INTERNET" /> 
    <application
-        android:label="news_app_proyek"
+        android:label="News"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@drawable/android12splash">
         <activity
             android:name=".MainActivity"
             android:exported="true"
