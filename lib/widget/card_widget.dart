@@ -103,6 +103,8 @@ class _CardWidgetState extends State<CardWidget> {
                   child: Image.network(
                     widget.data.urlToImage!,
                     fit: BoxFit.fill,
+                    errorBuilder: (context, error, stackTrace) => Image.network(
+                        'https://btklsby.go.id/images/placeholder/basic.png'),
                   ),
                 ),
               ),

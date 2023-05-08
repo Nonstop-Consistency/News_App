@@ -107,6 +107,8 @@ class _DetailNewsScreenState extends State<DetailNewsScreen> {
                 borderRadius: const BorderRadius.all(Radius.circular(12)),
                 child: Image.network(
                   widget.data.urlToImage!,
+                  errorBuilder: (context, error, stackTrace) => Image.network(
+                      'https://btklsby.go.id/images/placeholder/basic.png'),
                 ),
               ),
               const SizedBox(
