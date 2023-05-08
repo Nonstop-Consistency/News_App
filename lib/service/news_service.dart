@@ -8,7 +8,7 @@ class NewsService {
   // String apiKey = 'bac75f6dec3e4f0c94e58a5310f36acb';
   // Iman
   // String apiKey = 'de17e0f00c9f40cc85b339998d6dbb40';
-  String apiKey = '9342a9a707ca49c4b2da34e9ea238ea6';
+  String apiKey = 'cab817200f92426bacb4edd2373e82ef';
   String baseUrl = 'https://newsapi.org/v2/';
 
   Future getNewsHeadlines() async {

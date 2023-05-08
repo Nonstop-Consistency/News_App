@@ -11,7 +11,7 @@
    <application
         android:label="News"
         android:name="${applicationName}"
-        android:icon="@drawable/android12splash">
+        android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
             android:exported="true"
