@@ -1,5 +1,6 @@
 # NEWS APP
 
+| ------------- | ------------- |
 |Nama | NIM |
 | ------------- | ------------- |
 |Muhammad Fadhil Wicaksono Nur Rahman | 123200160 |
