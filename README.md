@@ -1,4 +1,4 @@
-# NEWS APP
+# NEWS APP (Proyek Akhir Praktikum TPM)
 
 |Nama | NIM |
 | ------------- | ------------- |
