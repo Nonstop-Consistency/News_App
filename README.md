@@ -1,7 +1,7 @@
 # NEWS APP
 
 |Nama | NIM |
-| :-----: | :---: |
+| ------------- | ------------- |
 |Iman Abdurrahman | 123200167 |
 |Muhammad Fadhil Wicaksono Nur Rahman | 123200160 |
 
